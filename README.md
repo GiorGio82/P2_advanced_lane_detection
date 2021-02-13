@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Advanced Lane Finding
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 ![Lanes Image](./examples/example_output.jpg)
@@ -37,3 +38,7 @@ If you're feeling ambitious (again, totally optional though), don't stop there! 
 ## How to write a README
 A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
 
+=======
+# P2_advanced_lane_detection
+Second project of the Udacity SDC eng class
+>>>>>>> c2457af74179e1a7a1da9c4cb73406e9c3126c85
