@@ -1,5 +1,10 @@
 .DS*
 *.pages
+test_images/test10.jpg
+test_images/test7.jpg
+test_images/test8.jpg
+test_images/test9.jpg
+output.mp4
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
